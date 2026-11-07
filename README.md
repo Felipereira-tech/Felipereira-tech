@@ -21,9 +21,7 @@ Sou um Profissional de Tecnologia da Informação em formação, apaixonado por 
 **Cibersegurança & Redes**  
 ![Nmap](https://img.shields.io/badge/nmap-%230A241F.svg?style=for-the-badge&logo=nmap&logoColor=%2331B530)
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KaliLinux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**Monitoramento & Dados**  
+![Kali Linux](https://img.shields.io/badge/KaliLinux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
 ![Zabbix](https://img.shields.io/badge/Zabbix-204561?style=for-the-badge&logo=zabbix&logoColor=white)
 
 **Linguagens de Programação**  
